@@ -1,0 +1,6 @@
+{
+    "shell-version": ["3.20.3"],
+    "description":   "Change brightness with xrandr",
+    "name":          "Brightness",
+    "uuid":          "brightness@rene.kraneis.gmail.com"
+}
